@@ -1,0 +1,107 @@
+
+*{
+   margin:0;
+   padding:0;
+   box-sizing: border-box; 
+   font-size:16px;
+	
+	
+}
+
+img,
+iframe {
+max-width: 100%;
+height: auto;
+
+border: 0;
+
+}
+
+
+body {
+font-family: arial, sans-serif;
+}
+
+
+body {
+      background-color: orange;
+     }
+header {
+       background-color: rgba(0,0,0,0.0);
+       }
+header, footer {
+               text-align: center;
+               }
+
+h1 {
+    font-size: 50px;
+    color: #fff;
+    text-transform: uppercase;
+   } 
+h2 {
+    font-size: 30px;
+    font-family: 'Lato', sans-serif; 
+    text-transform: uppercase;
+	color: #000000;
+   }
+pre {
+    font-family: "Poetsen One", sans-serif;
+            padding-bottom: 1em;
+   }
+h1,h2,p,li {
+			font-family: "Poetsen One", sans-serif;
+            padding-bottom: 0.5em;
+	
+           }
+
+
+.item {
+       background-color: white;
+       padding:1%;
+       margin:1%; 
+       margin-bottom: 20px; 
+       margin-top: 20px; 
+       border-radius:10px;
+	   color: #000000;
+}
+
+main {
+
+     max-width: 1000px;
+     margin-left: auto;
+     margin-right: auto;
+      }
+
+ 
+.item li {
+          margin-left: 25px;
+}
+blockquote {
+text-transform: uppercase; 
+font-style: italic;
+}
+
+
+nav {
+text-align: center;
+}
+nav li {
+display: inline-block;
+}
+nav a {
+background: white;
+color: black;
+padding: 5px; 
+text-decoration: none; 
+border-radius: 5px;
+}
+nav a:hover {
+background: orange;
+}
+body {
+background-image: url("../..//Assessment/images/BG.jpg");
+ background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
