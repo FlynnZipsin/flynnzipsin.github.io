@@ -99,7 +99,7 @@ nav a:hover {
 background: orange;
 }
 body {
-background-image: url("../..//Assessment/images/BG.jpg");
+background-image: url("/images/BG.jpg");
  background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
